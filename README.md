@@ -10,7 +10,6 @@
 
 ⚡ Fun fact Always work with fun
 
-https://raw.githubusercontent.com/dev-sahab/dev-sahab/refs/heads/main/github-contribution-grid-snake.svg
 <!--
 **sajay3159/sajay3159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
