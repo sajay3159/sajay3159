@@ -50,11 +50,11 @@
 
 ## 📈 GitHub Activity Graph
 
-![Ajay's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=ajaysahani&theme=react-dark)
+![Ajay's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=sajay3159&theme=react-dark)
 
 ---
 
-⭐️ From [Ajay Sahani](https://github.com/ajaysahani)
+⭐️ From [Ajay Sahani](https://github.com/sajay3159)
 
 <!--
 **sajay3159/sajay3159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
