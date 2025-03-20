@@ -51,10 +51,6 @@
 
 ⭐️ From [Ajay Sahani](https://github.com/sajay3159)
 
----
-
-![Snake Game](https://github.com/sajay3159/sajay3159/blob/main/snake.gif)
-
 <!--
 **sajay3159/sajay3159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
