@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as a **React.js Developer**
 - 🌱 I’m currently learning **MERN Stack Development**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://my-portfolio-dev-rocw.onrender.com)
-- 💬 Ask me about **Web Development, Front-End Development**
+- 💬 Ask me about **Web Development**
 - 📫 How to reach me **sajay3159@gmail.com**
 - ⚡ Fun fact: **Always work with fun!**
 
@@ -35,13 +35,13 @@
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![Ajay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sajay3159&show_icons=true&theme=radical)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sajay3159&layout=compact&theme=radical)
 
----
+--- -->
 
 ## 📈 GitHub Activity Graph
 
