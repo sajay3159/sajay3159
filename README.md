@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg" alt="React.js Banner" width="100%">
+</p>
+
 # Hi There! 👋 I'm Ajay Sahani
 
 🚀 A passionate **React.js Developer**
