@@ -1,5 +1,6 @@
-<p align="center">
-  <img src="https://t4.ftcdn.net/jpg/03/08/69/75/360_F_308697506_9dsBYHXm9FwuW0qcEqimAEXUvzTwfzwe.jpg" alt="React.js Banner" width="100%">
+![image](https://github.com/user-attachments/assets/21f0f5b8-7246-431b-9691-2cd71cef9b28)<p align="center">
+  <img src="https://github.com/user-attachments/assets/de0d9cbe-f3d9-4fe6-959f-4b65ed6c6a4e
+" alt="React.js Banner" width="100%">
 </p>
 
 # Hi There! 👋 I'm Ajay Sahani
