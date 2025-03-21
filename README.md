@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/de0d9cbe-f3d9-4fe6-959f-4b65ed6c6a4e" width="100%" height="50%">
+  <img src="https://github.com/user-attachments/assets/655e5742-e228-4ea1-806b-8fb3e64b18e6" width="100%" height="50%">
 </p>
 
 # Hi There! 👋 I'm Ajay Sahani
