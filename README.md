@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/655e5742-e228-4ea1-806b-8fb3e64b18e6" width="100%" height="50%">
-</p>
+<img src="https://github.com/sajay3159/sajay3159/blob/main/ajay-sahani.png" width="100%">
 
 # Hi There! 👋 I'm Ajay Sahani
 
